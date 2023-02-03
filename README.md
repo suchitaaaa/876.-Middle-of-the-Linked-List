@@ -1,5 +1,6 @@
 # 876.-Middle-of-the-Linked-List
-876. Middle of the Linked List
+
+
 class Solution {
     public ListNode middleNode(ListNode head) {
         if (head == null || head.next == null) return head;
